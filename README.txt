@@ -1,7 +1,8 @@
 README
 Name: Harel Madmoni
+Id: 203382080
 
-HTTP server
+Exercise 3 - HTTP server
 
 The program creates  HTTP server and a threadpool , that can handle a finite number of server entries.
 
